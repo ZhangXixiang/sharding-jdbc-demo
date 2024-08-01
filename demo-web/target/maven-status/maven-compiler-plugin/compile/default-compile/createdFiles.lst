@@ -1,0 +1,6 @@
+io/ian/demo/web/config/DefaultFastjsonConfig.class
+io/ian/demo/web/config/MybatisPlusConfig.class
+io/ian/demo/web/handler/MyMetaObjectHandler.class
+io/ian/demo/web/controller/OrderController.class
+io/ian/demo/web/config/Swagger2Configuration.class
+io/ian/demo/web/DemoWebApplication.class
